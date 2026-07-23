@@ -44,9 +44,6 @@ You can also activate every technique from the control panel.
 3. Allow camera permission.
 4. Perform supported hand signs or use the manual controls.
 
-## Screenshot
-
-_Add screenshots here._
 
 ## Disclaimer
 
